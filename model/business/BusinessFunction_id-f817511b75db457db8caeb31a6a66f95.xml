@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data herbruikbaar maken"
+    id="id-f817511b75db457db8caeb31a6a66f95"
+    documentation="Het vermogen om data conform een logisch model herbruikbaar te maken (FAIR). Dit omvat ook het beschikbaarstellen van master- en/of referentiedata (bv. weerdata, kadasterdata, …).">
+  <properties
+      key="Code"
+      value="E.2.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Make data reusable"/>
+  <properties
+      key="Documentation (en)"
+      value="The ability to make data reusable in accordance with a logical model (FAIR). This also includes making master and/or reference data available (e.g. weather data, land registry data, etc.)."/>
+</archimate:BusinessFunction>

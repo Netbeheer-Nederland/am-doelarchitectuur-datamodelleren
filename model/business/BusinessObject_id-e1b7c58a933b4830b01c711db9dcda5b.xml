@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces en data"
+    id="id-e1b7c58a933b4830b01c711db9dcda5b"
+    documentation="Een ordening van activiteiten, een vastgelegde uitdrukking van feiten.">
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Name (en)"
+      value="Process and data"/>
+</archimate:BusinessObject>

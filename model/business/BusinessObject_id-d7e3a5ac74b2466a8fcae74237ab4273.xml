@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakwaliteitsregel"
+    id="id-d7e3a5ac74b2466a8fcae74237ab4273"
+    documentation="Een beperking waar een dataset aan moet voldoen.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Data quality rule"/>
+  <properties
+      key="Source"
+      value="kwaliteitsregel (NORA raamwerk gegevenkwaliteit)"/>
+  <properties
+      key="Search term"
+      value="gegevenskwaliteitsregel"/>
+  <properties
+      key="Search term"
+      value="bedrijfsregel"/>
+  <properties
+      key="Search term"
+      value="business rule"/>
+  <properties
+      key="Search term"
+      value="bewaartermijn"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiefstuk"
+    id="id-1b26be06e50141cb8dfd792924e9a229"
+    documentation="Een document dat bestemd is om te bewaren door de organisatie die het heeft gemaakt of ontvangen bij de uitvoering van haar activiteiten.">
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Name (en)"
+      value="Archival document"/>
+  <properties
+      key="Source"
+      value="archiefbescheiden (Archiefwet 1995)"/>
+  <properties
+      key="Search term"
+      value="archiefbescheiden"/>
+  <properties
+      key="Search term"
+      value="archiefobject"/>
+  <properties
+      key="Note"
+      value="Het kan gaan om papieren documenten, zoals brieven, rapporten en foto's, maar ook om digitale documenten, zoals e-mails, videobestanden en presentaties."/>
+</archimate:BusinessObject>
