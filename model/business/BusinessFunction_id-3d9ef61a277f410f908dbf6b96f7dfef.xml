@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata beschikbaar stellen en beheren (Nieuw)"
-    id="id-3d9ef61a277f410f908dbf6b96f7dfef"/>
+    id="id-3d9ef61a277f410f908dbf6b96f7dfef"
+    documentation="define metadata strategy;&#xD;&#xA;understand metadata requirements;&#xD;&#xA;define metadata architecture;&#xD;&#xA;create and maintain metadata;&#xD;&#xA;query, report and analyse metadata."/>

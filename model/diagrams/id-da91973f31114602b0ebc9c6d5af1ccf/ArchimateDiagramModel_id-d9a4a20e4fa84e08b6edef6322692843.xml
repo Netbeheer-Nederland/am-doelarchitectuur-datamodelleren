@@ -291,7 +291,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0ddb8b049f064f8b8b95f00d30ad6119"
-          targetConnections="id-241a570eda524d0d95847236f1fbdaee id-007fb4b202014ff4a0b4ca27fc047e3f">
+          targetConnections="id-241a570eda524d0d95847236f1fbdaee id-007fb4b202014ff4a0b4ca27fc047e3f id-aad5a9555ab8487aafd420eacb7c2ecd">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-3a6fae9b8e9d49fe9cfdaf1b7c1b3bf6"
@@ -402,6 +402,15 @@
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-a251786719d24aa4969d22ef04f4fbab.xml#id-a251786719d24aa4969d22ef04f4fbab"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-aad5a9555ab8487aafd420eacb7c2ecd"
+          source="id-09efb7de00974fff80569e752e18e215"
+          target="id-0ddb8b049f064f8b8b95f00d30ad6119">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-a3109e6c27fd418a92abd8cd6cef984b.xml#id-a3109e6c27fd418a92abd8cd6cef984b"/>
+      </sourceConnections>
       <bounds
           x="564"
           y="36"
@@ -485,5 +494,16 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-b6ee92ae6cfc42d098ea0c85c7544a34.xml#id-b6ee92ae6cfc42d098ea0c85c7544a34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5122ba32e0854c95ba2c2ca3ee6c50ee"
+      textAlignment="1"
+      content="- Wat beheren we? Ontologie, thesaurus?&#xD;&#xA;- Is duidelijk dat er decentraal en centraal te werken?">
+    <bounds
+        x="840"
+        y="816"
+        width="289"
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>
