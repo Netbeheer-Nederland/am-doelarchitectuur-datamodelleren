@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Thesaurus"
-    id="id-6401038338b44cc6aec83e7b770ecbdd"/>
+    id="id-6401038338b44cc6aec83e7b770ecbdd"
+    documentation="Controlled vocabulary connected via relations between terms (e.g. narrow/broader, related term, synonym)."/>

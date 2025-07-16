@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontologie"
-    id="id-6d8d8e8810dd4393b9754d5e6f661390"/>
+    id="id-6d8d8e8810dd4393b9754d5e6f661390"
+    documentation="Formal representation of a set of concepts and the relationships between them using axioms."/>

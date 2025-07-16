@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vocabulary"
-    id="id-c4d7077185934ffda495a69bd2927607"/>
+    id="id-c4d7077185934ffda495a69bd2927607"
+    documentation="List of terms."/>
