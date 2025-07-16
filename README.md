@@ -1,2 +1,2 @@
 # am-doelarchitectuur-datamodelleren
-Doelarchitectuur datamodelleren
+Doelarchitectuur datamodelleren.
